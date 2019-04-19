@@ -41,6 +41,7 @@ Examples of use on Windows should be similar as on Linux may be with slight modi
 You may search internet for queries: 
 
 * running Python script on Windows
+* Can I run Linux commands on Windows?
 * command line pipe Windows
 * command line xargs Windows
 
