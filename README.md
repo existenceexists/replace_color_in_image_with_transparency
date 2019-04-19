@@ -7,7 +7,7 @@ You can process many files by executing one command.
 Prepare the application for all possible situations and errors.
 This application was developed on Linux but it should run on Windows and other systems.
 This application requires Python version 3.7 or higher, (because the argument 'capture_output' of the method 'subprocess.run' was added in python 3.7) . This application requires command line utility 'convert' that is part of the software ImageMagick. 
-Run this application from command line with argument '--help' or '-h' to get full description of the application and its features.
+Run this application from command line with argument '--help' or '-h' to get full description of this application.
 
 ## Requirements:
 
@@ -39,9 +39,10 @@ ls directory/with/images/* | xargs python3.7 replace_color_in_image_with_transpa
 
 Examples of use on Windows should be similar as on Linux may be with slight modifications.
 You may search internet for queries: 
-"running Python script on Windows"
-"command line pipe Windows"
-"command line xargs Windows"
+
+* running Python script on Windows
+* command line pipe Windows
+* command line xargs Windows
 
 ## Authors
 
